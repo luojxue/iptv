@@ -1,3 +1,224 @@
+黑龙江移动,#genre#
+CCTV1 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV2 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV3 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV5 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5+ ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV6 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV7 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV10 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+CCTV11 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV12 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV12 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
+CCTV13 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV13 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV13 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
+CCTV14 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV14 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
+CCTV15 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV16 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+中国教育1 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+中国教育2 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+中国教育4 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+山东教育卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+湖北经视,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444588?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk2eAXNjqpshkHT1XNIshYDCEL9Pi95qdap5hhT2XsHxLtFBMU8DIzZdm%2Fg1Gpd%2FiUc%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000338%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000328%2CEND&GuardEncType=2
+湖北综合,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444593?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk2eAXNjqpshkHT1XNIshYDCITPxRwPooGM%2BXMf6f5xUP%2FNZR9Nm8y%2B%2F0a1Ra4A4O1g%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000339%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000329%2CEND&GuardEncType=2
+湖北垄上,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444600?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk3R3MXAmvC%2FuBhDcXRRRG8R9LdkNxR1oKa3duMT%2BC%2FvWHDfMNoeitvNlEdhlsmKUuU%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000340%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000330%2CEND&GuardEncType=2
+湖北公共,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444582?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk2eAXNjqpshkHT1XNIshYDC7pgt8rubQskyP%2FidxcT1KGf2VeGGGCZaSxnELpLWedg%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000337%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000327%2CEND&GuardEncType=2
+湖北影视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000518?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65xtG%2Fy5Lr6hciVgut%2Fyt%2F4tKwUGh%2FzboIMQ62345XaQU%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000518%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000509%2CEND&GuardEncType=2
+湖北教育,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000519?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65mYiSD7qIfMXHawkG%2FPkivzoRHZTCPoWz4ie53Np%2BQgY%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000519%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000510%2CEND&GuardEncType=2
+湖北生活,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000517?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR6524ac76YLadZ7hmzoEDCW86FMfIqkzVdmYGHKjfiwg5I%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000517%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000508%2CEND&GuardEncType=2
+武汉新闻综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000429?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmg5nHjBlUyYTY9KRvBxOCGBjLD1V01VKOGmqOjc4WH5E%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000429%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000419%2CEND&GuardEncType=2
+CHC家庭影院,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000522?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65yc8PhUZVUo2n7EyDyEYbKg50GnMxZxnIA9Lb5Hpso%2FQ%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000522%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000513%2CEND&GuardEncType=2
+CHC动作电影,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000523?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65s%2FCbCSED%2BjBl5A4OYOIZpPRh3ne%2FTNsJtIrch9YW4XA%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000523%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000514%2CEND&GuardEncType=2
+CHC影迷电影,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000539?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65bFlIW9aLdnry%2FbwQV186%2FEjKnaT%2BZ7np30iici3JB7s%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000539%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000530%2CEND&GuardEncType=2
+都市剧场,rtsp://111.48.34.138:1554/170000004112/HBGD9805154232409374729511476870?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaX8TB5j0YNsQ13jce%2FCfRLVBYuCT1b%2FbflP6X3zH%2FRB0LysMILptpl%2BNjqAEHRjK1nk116DiKpOCrPcgayjk%2F%2B4%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9805154232409374729511476870%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C495929839%2CEND&GuardEncType=2
+湖北公共,http://111.48.246.74/000000001000PLTV/88888888/224/3221229800/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230441/1.m3u8
+湖北经视,http://111.48.246.74/000000001000PLTV/88888888/224/3221229804/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230388/1.m3u8
+湖北综合,http://111.48.246.74/000000001000PLTV/88888888/224/3221229806/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230439/1.m3u8
+湖北垄上,http://111.48.246.74/000000001000PLTV/88888888/224/3221229833/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230390/1.m3u8
+湖北生活,http://111.48.34.138/000000001000PLTV/88888888/224/3221230457/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230457/1.m3u8
+湖北影视,http://111.48.246.74/000000001000PLTV/88888888/224/3221230404/1.m3u8
+湖北教育,http://111.48.34.138/000000001000PLTV/88888888/224/3221230406/1.m3u8
+CHC动作电影,http://111.48.246.74/000000001000PLTV/88888888/224/3221230434/1.m3u8
+CHC家庭影院,http://111.48.246.74/000000001000PLTV/88888888/224/3221230481/1.m3u8
+CHC影迷电影,http://111.48.246.74/000000001000PLTV/88888888/224/3221230483/1.m3u8
+欢笑剧场,http://111.48.246.74/000000001000PLTV/88888888/224/3221230553/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230500/1.m3u8
+都市剧场,http://111.48.246.74/000000001000PLTV/88888888/224/3221230619/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230607/1.m3u8
+黑莓电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑龙江影视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+NewTV动作电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV超级电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NewTV怡伴健康 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+NewTV欢乐剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+NewTV军旅剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+NewTV古装剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+NewTV家庭剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NewTV明星大片 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+NewTV爱情喜剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+NewTV精品大剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NewTV超级电视剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NewTV东北热剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+NewTV农业致富 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NewTV惊悚悬疑 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+NewTV潮妈辣婆 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+NewTV炫舞未来 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+NewTV精品纪录 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+NewTV超级综艺 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+NewTV金牌综艺 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+NewTV海外剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+NewTV军事评论 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NewTV超级体育 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+NewTV精品体育 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+NewTV武搏世界 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+NewTV中国功夫 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+东方卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+东方卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+江苏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+江苏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+北京卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+北京卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+深圳卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+深圳卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+湖北卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+湖北卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+浙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+浙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+湖南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+湖南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+四川卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+天津卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+天津卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+安徽卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+山东卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+广东卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+江西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+河北卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+河南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+海南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+贵州卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+重庆卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+广西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+辽宁卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+吉林卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
+黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+东南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
+黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
+黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
+黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
+黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8
+黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+东南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+东南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
+东方卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
+云南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+内蒙古卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+内蒙古卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
+北京卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8
+吉林卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
+四川卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8
+天津卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
+宁夏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+宁夏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+安徽卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
+山东卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226507/index.m3u8
+山西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+山西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
+广东卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8
+广西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+新疆卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+新疆卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
+江苏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8
+江西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226504/index.m3u8
+河北卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8
+河北卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
+河南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
+浙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
+海南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
+海南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
+深圳卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8
+湖北卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226501/index.m3u8
+湖南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
+甘肃卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+甘肃卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
+西藏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+西藏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
+贵州卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
+贵州卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
+辽宁卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+辽宁卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8
+重庆卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
+重庆卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+陕西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+陕西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+青海卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+青海卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
+西藏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
+北京纪实科教 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+黑龙江都市 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+黑龙江新闻法治 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
+黑龙江文体 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+黑龙江少儿 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+黑龙江农业科教 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+齐齐哈尔经济法治 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
+齐齐哈尔新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+鹤岗新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+大庆新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
+大兴安岭新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8
+哈尔滨影视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
+哈尔滨新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
+双鸭山新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
+佳木斯新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+黑龙江农业科教 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
+黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
+黑龙江少儿 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
+黑龙江影视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
+黑龙江文体 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
+黑龙江新闻法治 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
+黑龙江都市 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
+哈尔滨新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
+哈尔滨生活 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+伊春新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
+双鸭山新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
+大庆教育 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
+漠河 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226535/index.m3u8
+牡丹江新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
+鸡西公共 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
+鸡西新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
+鹤岗新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226496/index.m3u8
+齐齐哈尔新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
+齐齐哈尔经济法治 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
+咪咕视频 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+哒啵赛事 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+睛彩广场舞 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+睛彩竞技 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+睛彩篮球 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+睛彩篮球 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+CCTV1 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
+CCTV4 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
+CCTV11 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV15 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CGTN ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+CGTN纪录 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
+黑莓动画 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+上海哈哈炫动 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+北京卡酷少儿 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+江苏优漫卡通 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+湖南金鹰卡通 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+吉林延边卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+新疆兵团卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+四川康巴卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+青海安多卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
+
+
 北京移动IPV6,#genre#
 CCTV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226346/1.m3u8?
 CCTV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
@@ -27,6 +248,30 @@ CCTV14,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 CCTV16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?
 CCTV17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
+湖北经视,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444588?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk2eAXNjqpshkHT1XNIshYDCEL9Pi95qdap5hhT2XsHxLtFBMU8DIzZdm%2Fg1Gpd%2FiUc%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000338%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000328%2CEND&GuardEncType=2
+湖北综合,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444593?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk2eAXNjqpshkHT1XNIshYDCITPxRwPooGM%2BXMf6f5xUP%2FNZR9Nm8y%2B%2F0a1Ra4A4O1g%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000339%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000329%2CEND&GuardEncType=2
+湖北垄上,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444600?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk3R3MXAmvC%2FuBhDcXRRRG8R9LdkNxR1oKa3duMT%2BC%2FvWHDfMNoeitvNlEdhlsmKUuU%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000340%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000330%2CEND&GuardEncType=2
+湖北公共,rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444582?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk2eAXNjqpshkHT1XNIshYDC7pgt8rubQskyP%2FidxcT1KGf2VeGGGCZaSxnELpLWedg%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000337%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000327%2CEND&GuardEncType=2
+湖北影视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000518?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65xtG%2Fy5Lr6hciVgut%2Fyt%2F4tKwUGh%2FzboIMQ62345XaQU%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000518%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000509%2CEND&GuardEncType=2
+湖北教育,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000519?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65mYiSD7qIfMXHawkG%2FPkivzoRHZTCPoWz4ie53Np%2BQgY%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000519%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000510%2CEND&GuardEncType=2
+湖北生活,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000517?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR6524ac76YLadZ7hmzoEDCW86FMfIqkzVdmYGHKjfiwg5I%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000517%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000508%2CEND&GuardEncType=2
+武汉新闻综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000429?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmg5nHjBlUyYTY9KRvBxOCGBjLD1V01VKOGmqOjc4WH5E%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000429%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000419%2CEND&GuardEncType=2
+CHC家庭影院,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000522?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65yc8PhUZVUo2n7EyDyEYbKg50GnMxZxnIA9Lb5Hpso%2FQ%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000522%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000513%2CEND&GuardEncType=2
+CHC动作电影,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000523?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65s%2FCbCSED%2BjBl5A4OYOIZpPRh3ne%2FTNsJtIrch9YW4XA%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000523%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000514%2CEND&GuardEncType=2
+CHC影迷电影,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000539?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65bFlIW9aLdnry%2FbwQV186%2FEjKnaT%2BZ7np30iici3JB7s%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000539%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000530%2CEND&GuardEncType=2
+都市剧场,rtsp://111.48.34.138:1554/170000004112/HBGD9805154232409374729511476870?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaX8TB5j0YNsQ13jce%2FCfRLVBYuCT1b%2FbflP6X3zH%2FRB0LysMILptpl%2BNjqAEHRjK1nk116DiKpOCrPcgayjk%2F%2B4%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9805154232409374729511476870%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C495929839%2CEND&GuardEncType=2
+湖北公共,http://111.48.246.74/000000001000PLTV/88888888/224/3221229800/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230441/1.m3u8
+湖北经视,http://111.48.246.74/000000001000PLTV/88888888/224/3221229804/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230388/1.m3u8
+湖北综合,http://111.48.246.74/000000001000PLTV/88888888/224/3221229806/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230439/1.m3u8
+湖北垄上,http://111.48.246.74/000000001000PLTV/88888888/224/3221229833/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230390/1.m3u8
+湖北生活,http://111.48.34.138/000000001000PLTV/88888888/224/3221230457/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230457/1.m3u8
+湖北影视,http://111.48.246.74/000000001000PLTV/88888888/224/3221230404/1.m3u8
+湖北教育,http://111.48.34.138/000000001000PLTV/88888888/224/3221230406/1.m3u8
+CHC动作电影,http://111.48.246.74/000000001000PLTV/88888888/224/3221230434/1.m3u8
+CHC家庭影院,http://111.48.246.74/000000001000PLTV/88888888/224/3221230481/1.m3u8
+CHC影迷电影,http://111.48.246.74/000000001000PLTV/88888888/224/3221230483/1.m3u8
+欢笑剧场,http://111.48.246.74/000000001000PLTV/88888888/224/3221230553/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230500/1.m3u8
+都市剧场,http://111.48.246.74/000000001000PLTV/88888888/224/3221230619/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230607/1.m3u8
 NewTV超级电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?
 NewTV动作电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8?
 NewTV军旅剧场,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226967/1.m3u8?
@@ -288,213 +533,6 @@ CCTV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/22
 
 
 
-黑龙江移动,#genre#
-CCTV1 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV1 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV2 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV3 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV4 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV5 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV5+ ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV6 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV7 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV8 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV9 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV10 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV10 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-CCTV11 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV12 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV12 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
-CCTV13 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV13 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV13 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
-CCTV14 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV14 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
-CCTV15 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV16 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV17 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-中国教育1 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-中国教育2 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-中国教育4 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-山东教育卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-武汉新闻综合,http://111.48.246.74/000000001000PLTV/88888888/224/3221229763/1.m3u8
-湖北公共新闻,http://111.48.246.74/000000001000PLTV/88888888/224/3221229800/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230441/1.m3u8
-湖北经视,http://111.48.246.74/000000001000PLTV/88888888/224/3221229804/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230388/1.m3u8
-湖北综合,http://111.48.246.74/000000001000PLTV/88888888/224/3221229806/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230439/1.m3u8
-湖北垄上,http://111.48.246.74/000000001000PLTV/88888888/224/3221229833/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230390/1.m3u8
-湖北影视,http://111.48.246.74/000000001000PLTV/88888888/224/3221230404/1.m3u8
-CHC动作电影,http://111.48.246.74/000000001000PLTV/88888888/224/3221230434/1.m3u8
-CHC家庭影院,http://111.48.246.74/000000001000PLTV/88888888/224/3221230481/1.m3u8
-CHC影迷电影,http://111.48.246.74/000000001000PLTV/88888888/224/3221230483/1.m3u8
-欢笑剧场,http://111.48.246.74/000000001000PLTV/88888888/224/3221230553/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230500/1.m3u8
-都市剧场,http://111.48.246.74/000000001000PLTV/88888888/224/3221230619/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230607/1.m3u8
-黑莓电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-黑龙江影视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-NewTV动作电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-NewTV超级电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-NewTV怡伴健康 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-NewTV欢乐剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-NewTV军旅剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-NewTV古装剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-NewTV家庭剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-NewTV明星大片 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-NewTV爱情喜剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-NewTV精品大剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-NewTV超级电视剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-NewTV东北热剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-NewTV农业致富 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-NewTV惊悚悬疑 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-NewTV潮妈辣婆 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-NewTV炫舞未来 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-NewTV精品纪录 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-NewTV超级综艺 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-NewTV金牌综艺 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-NewTV海外剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-NewTV军事评论 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-NewTV超级体育 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-NewTV精品体育 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-NewTV武搏世界 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-NewTV中国功夫 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-东方卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-东方卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-江苏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-江苏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-北京卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-北京卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-深圳卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-深圳卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-湖北卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-湖北卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-浙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-浙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-湖南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-湖南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-四川卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-天津卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-天津卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-安徽卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-山东卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-广东卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-江西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-河北卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-河南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-海南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-贵州卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-重庆卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-广西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-辽宁卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-吉林卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
-黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-东南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
-黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
-黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
-黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
-黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8
-黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
-东南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
-东南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
-东方卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226336/index.m3u8
-云南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-内蒙古卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-内蒙古卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
-北京卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8
-吉林卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
-四川卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8
-天津卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
-宁夏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-宁夏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-安徽卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
-山东卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226507/index.m3u8
-山西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-山西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
-广东卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8
-广西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-新疆卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-新疆卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
-江苏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226495/index.m3u8
-江西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226504/index.m3u8
-河北卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8
-河北卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
-河南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
-浙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
-海南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
-海南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
-深圳卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8
-湖北卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226501/index.m3u8
-湖南卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
-甘肃卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-甘肃卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
-西藏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-西藏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-贵州卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
-贵州卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
-辽宁卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-辽宁卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226254/index.m3u8
-重庆卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
-重庆卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-陕西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-陕西卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
-青海卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-青海卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
-西藏卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-北京纪实科教 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-黑龙江都市 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-黑龙江新闻法治 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-黑龙江文体 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-黑龙江少儿 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-黑龙江农业科教 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-齐齐哈尔经济法治 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
-齐齐哈尔新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-鹤岗新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
-大庆新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
-大兴安岭新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8
-哈尔滨影视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
-哈尔滨新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-双鸭山新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
-佳木斯新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-黑龙江农业科教 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8
-黑龙江卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
-黑龙江少儿 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
-黑龙江影视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226365/index.m3u8
-黑龙江文体 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
-黑龙江新闻法治 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
-黑龙江都市 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226427/index.m3u8
-哈尔滨新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
-哈尔滨生活 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-伊春新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226416/index.m3u8
-双鸭山新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226502/index.m3u8
-大庆教育 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
-漠河 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226535/index.m3u8
-牡丹江新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
-鸡西公共 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226481/index.m3u8
-鸡西新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226410/index.m3u8
-鹤岗新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226496/index.m3u8
-齐齐哈尔新闻综合 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
-齐齐哈尔经济法治 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226493/index.m3u8
-咪咕视频 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-哒啵赛事 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-睛彩广场舞 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-睛彩竞技 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-睛彩篮球 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-睛彩篮球 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-CCTV1 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
-CCTV4 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-CCTV11 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV15 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CGTN ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-CGTN纪录 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
-黑莓动画 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-上海哈哈炫动 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-北京卡酷少儿 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-江苏优漫卡通 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-湖南金鹰卡通 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-吉林延边卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-新疆兵团卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-四川康巴卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-青海安多卫视 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-
 
 HB线路,#genre#
 CCTV1,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000131?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyabtg3Alhms7Ii4HtXw5N%2FgDy88UL5FMgCtyx%2Bl9WpuMp5Cw7lgbb9dRzxyYSeYVgmr%2B1qR%2F5Ngxhb5pKGQZKZ2w%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C00000001000000050000000000000152%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000252976_0%2CEND&GuardEncType=2
@@ -522,11 +560,10 @@ CCTV17,rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000580?r
 湖北影视,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000518?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65xtG%2Fy5Lr6hciVgut%2Fyt%2F4tKwUGh%2FzboIMQ62345XaQU%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000518%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000509%2CEND&GuardEncType=2
 湖北教育,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000519?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65mYiSD7qIfMXHawkG%2FPkivzoRHZTCPoWz4ie53Np%2BQgY%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000519%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000510%2CEND&GuardEncType=2
 湖北生活,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000517?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR6524ac76YLadZ7hmzoEDCW86FMfIqkzVdmYGHKjfiwg5I%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000517%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000508%2CEND&GuardEncType=2
-武汉新闻,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000429?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmg5nHjBlUyYTY9KRvBxOCGBjLD1V01VKOGmqOjc4WH5E%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000429%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000419%2CEND&GuardEncType=2
+武汉新闻综合,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000429?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmg5nHjBlUyYTY9KRvBxOCGBjLD1V01VKOGmqOjc4WH5E%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000429%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000419%2CEND&GuardEncType=2
 武汉电视剧,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000430?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYm29ZTjtQUo3CezKY2PUkuRW3Z8LkKuiNFObItDUu3qDg%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000430%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000420%2CEND&GuardEncType=2
-武汉生活,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000632?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0LuFoFSu2Nvxun9VyOzlN9E%2BtrD%2FStoemUkiS2Olh1xB%2FK7IKhBkKIG2MaCyAbEUU%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000632%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000615%2CEND&GuardEncType=2
+武汉科技生活,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000632?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0LuFoFSu2Nvxun9VyOzlN9E%2BtrD%2FStoemUkiS2Olh1xB%2FK7IKhBkKIG2MaCyAbEUU%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000632%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000615%2CEND&GuardEncType=2
 武汉文体,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000431?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmysIuxM9S685Rs77DTeAyAu%2B294VKnzmGP7%2F1ykZb5CY%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000431%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000421%2CEND&GuardEncType=2
-武汉外语,rtsp://111.48.34.138:1554/170000004112/HBGD7388122639412469760674279984?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyafrO8el3Cs%2FuuN38ErzEFOgoCkbkJrnVnsJ8PpDfQlLI5IicQFaoB97XRh%2Bbi03kSS5MUlLfmaBDKuurnsCmJU8%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD7388122639412469760674279984%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C375925094%2CEND&GuardEncType=2
 武汉教育,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000369?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3izkqF8K3u72zVnoO3q9jAiFzJsfjf5GP7m8%2BphBuZ1AgbUnYmR7XmyQRyUGD1Enw%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000379%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000001073135_0%2CEND&GuardEncType=2
 CHC家庭影院,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000522?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65yc8PhUZVUo2n7EyDyEYbKg50GnMxZxnIA9Lb5Hpso%2FQ%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000522%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000513%2CEND&GuardEncType=2
 CHC动作电影,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000523?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65s%2FCbCSED%2BjBl5A4OYOIZpPRh3ne%2FTNsJtIrch9YW4XA%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000523%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000514%2CEND&GuardEncType=2
@@ -609,12 +646,12 @@ CETV4,rtsp://111.48.34.138:1554/170000004112/00005000000000000000000000000252?rr
 延边卫视,rtsp://111.48.34.138:1554/170000004112/HBGD8790062031491768322269017598?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaQhqpuZ8H8ziURwCA3autQc%2B07DsH3%2BQoPwz%2BkOBUTDMubTmNzYS%2FXgxQFnnjC6bk6Gln03uyIw8PBYD%2BYEGz98%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD8790062031491768322269017598%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2CHBGD8790065929006817289621508646_0%2CEND&GuardEncType=2
 康巴卫视,rtsp://111.48.34.138:1554/170000004112/HBGD8790066950704414726368066759?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaZ6AdwEm6OZOsXn6zptuG5MNGv9bmJeKK3Y%2FXmuJTM4H7Zc1jJ4oAj%2FfKdFKxgWCWpwn%2F2R8BXpKCngpR4OB%2FJA%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD8790066950704414726368066759%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2CHBGD8790067851557027844809559748_0%2CEND&GuardEncType=2
 快乐垂钓,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000421?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmaLxZs5XeuveQGxHY35%2FaloK%2FVtFIxc00y0DS8t69Udk%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000421%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000411%2CEND&GuardEncType=2
-茶,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000425?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmyiRdgzKlGhU%2Fqxv402Txmb7kBiJvO8rJ696wDupoBkQ%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000425%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000415%2CEND&GuardEncType=2
+茶频道,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000425?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmyiRdgzKlGhU%2Fqxv402Txmb7kBiJvO8rJ696wDupoBkQ%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000425%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000415%2CEND&GuardEncType=2
 乐游,rtsp://111.48.34.138:1554/170000004112/HBGD9805144459512381444870761474?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaeL8KDoXvJY6ADgcKmTtoBZg%2BdHsKXVER%2B1Bdzef95Sdl2%2BWP%2FirGpqezjFIqwjlkQWT4WALvxu%2BpHc1C3GQbLQ%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9805144459512381444870761474%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C495927697%2CEND&GuardEncType=2
 魅力足球,rtsp://111.48.34.138:1554/170000004112/HBGD9805142106550681606189861515?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaRi%2B7LDdt3%2BsEWC6bs9b5btnPeUpKpOLHIj9bIPEaE53Qo2lah0as%2F%2FWydAlUF4IGBoKwk%2FQHREuluPaAeZT8rk%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9805142106550681606189861515%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C495928556%2CEND&GuardEncType=2
 游戏风云,rtsp://111.48.34.138:1554/170000004112/HBGD9805158189928775682657390008?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaRXaSD7l9mYkXm2bGJFZfq1xi7KhH10Q51xE8ifbr1sVtK92UWqZp3xHDBj9y6xpALiF9yi7%2FolVDXT0hEzacEw%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9805158189928775682657390008%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C495928719%2CEND&GuardEncType=2
 先锋乒羽,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000423?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmfm0pKgmgh%2FUuxh0On9jfZfjthOX%2FCFB3NW5WSwgnEbw%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000423%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000413%2CEND&GuardEncType=2
-书画,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000424?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmGTQzaEgTsX7%2Fcma2uCjrs6w7ShYxfsHkWUSHNlR3SHw%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000424%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000414%2CEND&GuardEncType=2
+书画频道,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000424?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmGTQzaEgTsX7%2Fcma2uCjrs6w7ShYxfsHkWUSHNlR3SHw%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000424%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000414%2CEND&GuardEncType=2
 新动漫,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000500?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65oaWNcai64Ef67epcIp6sRP0yESOzOBm1oRTBvclikyg%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000500%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000491%2CEND&GuardEncType=2
 动漫秀场,rtsp://111.48.34.138:1554/170000004112/HBGD9805143433502638082196954568?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaZzE37K8eybisvXLR%2FWIN5Riq%2B94IqrF0y8yoml7O4IXKFWFdRSPH%2BoxyGUvSk12rQcd9QOchhdVLRJYAAW5yCY%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9805143433502638082196954568%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C495929190%2CEND&GuardEncType=2
 金色学堂,rtsp://111.48.34.138:1554/170000004112/HBGD9805145630420992009556577523?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaYvC7AJL8dm2Qv47KgsbVzm8n64%2BOwpfpiaeyG5YQVYowU8yhIJP5RkSmzGES2dkn4Q87uNt9cZWJTLTAgKBhXw%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9805145630420992009556577523%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C495929220%2CEND&GuardEncType=2
@@ -631,14 +668,14 @@ CCTV世界地理,rtsp://111.48.34.138:1554/170000004112/991800010000000500000000
 CCTV风云音乐,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000319?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY1GVU%2FDma1qX2%2FFHkIljWPHYOBi0I4Xo0cjEgfJEP4NK3TRb4af7rjJZdRcxTCe%2B9w%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000319%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000309%2CEND&GuardEncType=2
 汽摩,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000313?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY1GVU%2FDma1qX2%2FFHkIljWPHWRvK%2FmhZzMGv7l4TMApV6V7dITA22cGLhYwhYH%2BZ31Y%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000313%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000303%2CEND&GuardEncType=2
 CCTV女性时尚,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000315?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY1GVU%2FDma1qX2%2FFHkIljWPHCcJmYnou0owhV8jUvRrZWfEII26E%2BQpV76Sx8YeYr5I%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000315%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000305%2CEND&GuardEncType=2
-梨园,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000301?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY1GVU%2FDma1qX2%2FFHkIljWPHYJZA40AgoygAnGKrs67WR7AC4IpoxfdSTWY%2Fi%2Bo5yxw%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000301%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C377328061%2CEND&GuardEncType=2
+梨园频道,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000301?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY1GVU%2FDma1qX2%2FFHkIljWPHYJZA40AgoygAnGKrs67WR7AC4IpoxfdSTWY%2Fi%2Bo5yxw%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000301%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C377328061%2CEND&GuardEncType=2
 文物宝库,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000293?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY20WU1Vaa%2Bl4aVrRnvturVUePdUC%2BtDLG5tLF3XkQ7cTLjouVk8rRFZKharnxGia98%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000293%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C377327523%2CEND&GuardEncType=2
 武术世界,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000291?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY20WU1Vaa%2Bl4aVrRnvturVUzp4GAHScG5O%2FSG1KpBGke3%2FvWd%2Bz%2F4nL%2BW%2BjYmw1T4o%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000291%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C377327540%2CEND&GuardEncType=2
 环球奇观,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000282?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3X6I376AaW7Yf5%2F%2BT5UpiQOovO8zMXL2EKbSrNuHxLXlrIlCztLJfs%2FRKNS9beq2Y%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000292%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000402842_0%2CEND&GuardEncType=2
 国学频道,rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000284?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3X6I376AaW7Yf5%2F%2BT5UpiQ2iV4qXdueYvVItSMqPkBeAyLW32hS4Mm4Df2yR8ohjM%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000294%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000402840_0%2CEND&GuardEncType=2
 财富天下,rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000163?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyabtg3Alhms7Ii4HtXw5N%2FgDy88UL5FMgCtyx%2Bl9WpuMpNi%2FUD%2Bl5KK7Y9uAVfZ8YABse4jOvP95lgVBUhwhjKtk%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C00000001000000050000000000000183%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000246429_0%2CEND&GuardEncType=2
-芒果1,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000432?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmeTm6zcBwnM7k76VZIIRJ%2BQo3MhMuxJ2pX4u8spM3hVs%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000432%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000422%2CEND&GuardEncType=2
-芒果2,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000541?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65UxSAjSkXty121tL8Gwj%2FkNFr%2BybUw8C4%2FtwHi5T1qAI%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000541%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000532%2CEND&GuardEncType=2
+CCTV5,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000432?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmeTm6zcBwnM7k76VZIIRJ%2BQo3MhMuxJ2pX4u8spM3hVs%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000432%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000422%2CEND&GuardEncType=2
+CCTV5,rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000541?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65UxSAjSkXty121tL8Gwj%2FkNFr%2BybUw8C4%2FtwHi5T1qAI%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000541%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000532%2CEND&GuardEncType=2
 CCTV1,rtsp://111.48.34.138:1554/170000004112/HBGD9079672088018370568847387517?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyafuBgd4GHJyHXjPzpcjW0DdfE3wA%2BNcBNOgBDSOaoMCyrh1aL8nwfUKVrxs%2BQ9%2F6V8rP8Kct97SqzVPJTYGR0CA%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9079672088018370568847387517%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2CHBGD9079681367464058885218361138_0%2CEND&GuardEncType=2
 CCTV1,rtsp://111.48.34.138:1554/170000004112/HBGD9079674972099788805959231181?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaZcJcS7MVuAk%2F5qQwAZ6juqbEUSkCZknX7C7QbfDx0K8HhKPV9HpFZfO2WuWaMuHOVrOxOb9yFThm90RJkDkC4E%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9079674972099788805959231181%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2CHBGD9079682562873180165460944756_0%2CEND&GuardEncType=2
 湖北卫视,rtsp://111.48.34.138:1554/170000004112/HBGD9934983436000788486629361083?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaTt1%2F22TZaGH%2FWV13Vpf5NF4WYn5ikeB6QpVm1B6l4%2F%2BLAgiUTfvjGqKxao1ErrR2bJqk0t%2BTQFqC%2FIEILUy3xk%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9934983436000788486629361083%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C482500586%2CEND&GuardEncType=2
@@ -702,15 +739,11 @@ CGTN纪录片,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3
 新动漫,http://111.48.34.237/PLTV/88888888/224/3221230487/1.m3u8
 新疆卫视,http://111.48.34.237/PLTV/88888888/224/3221229729/1.m3u8
 新疆卫视,http://111.48.34.237/PLTV/88888888/224/3221230030/1.m3u8
-新闻综合,http://111.48.34.237/PLTV/88888888/224/3221229763/1.m3u8
-央视频,http://111.48.34.237/PLTV/88888888/224/3221230371/1.m3u8
 云南卫视,http://111.48.34.237/PLTV/88888888/224/3221229723/1.m3u8
 云南卫视,http://111.48.34.237/PLTV/88888888/224/3221230365/1.m3u8
 浙江卫视,http://111.48.34.237/PLTV/88888888/224/3221229788/1.m3u8
 浙江卫视,http://111.48.34.237/PLTV/88888888/224/3221230460/1.m3u8
 浙江卫视,http://111.48.34.237/PLTV/88888888/224/3221229695/1.m3u8
-中央新影老故事-,http://111.48.34.237/PLTV/88888888/224/3221230087/1.m3u8
-中央新影老故事-,http://111.48.34.237/PLTV/88888888/224/3221230539/1.m3u8
 重庆卫视,http://111.48.34.237/PLTV/88888888/224/3221229756/1.m3u8
 重庆卫视,http://111.48.34.237/PLTV/88888888/224/3221230139/1.m3u8
 安徽卫视,http://111.48.34.138/000000001000PLTV/88888888/224/3221229778/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230505/1.m3u8
@@ -727,7 +760,7 @@ CGTN纪录片,http://111.48.34.138/000000001000PLTV/88888888/224/3221230430/1.m3
 河北卫视,http://111.48.34.138/000000001000PLTV/88888888/224/3221229840/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230143/1.m3u8
 河南卫视,http://111.48.34.138/000000001000PLTV/88888888/224/3221229870/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230511/1.m3u8
 黑龙江卫视,http://111.48.34.138/000000001000PLTV/88888888/224/3221229816/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230462/1.m3u8
-湖北卫视,http://111.48.34.138/000000001000PLTV/88888888/224/3221229812/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230457/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230509/1.m3u8
+湖北卫视,http://111.48.34.138/000000001000PLTV/88888888/224/3221229812/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230509/1.m3u8
 湖南卫视,http://111.48.34.138/000000001000PLTV/88888888/224/3221229739/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221229983/1.m3u8
 江西卫视,http://111.48.34.138/000000001000PLTV/88888888/224/3221229752/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230519/1.m3u8
 江苏卫视,http://111.48.34.138/000000001000PLTV/88888888/224/3221229743/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230497/1.m3u8
@@ -761,7 +794,8 @@ CETV2,http://111.48.34.138/000000001000PLTV/88888888/224/3221230171/1.m3u8#http:
 CETV4,http://111.48.34.138/000000001000PLTV/88888888/224/3221229939/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230466/1.m3u8
 山东教育卫视,http://111.48.34.138/000000001000PLTV/88888888/224/3221230459/1.m3u8
 武汉教育,http://111.48.34.138/000000001000PLTV/88888888/224/3221229783/1.m3u8
-湖北教育,http://111.48.34.138/000000001000PLTV/88888888/224/3221230406/1.m3u8金色学堂,http://111.48.34.138/000000001000PLTV/88888888/224/3221230586/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230603/1.m3u8
+湖北教育,http://111.48.34.138/000000001000PLTV/88888888/224/3221230406/1.m3u8
+金色学堂,http://111.48.34.138/000000001000PLTV/88888888/224/3221230586/1.m3u8#http://111.48.34.138/000000001000PLTV/88888888/224/3221230603/1.m3u8
 
 CCTV1,http://111.48.246.74/000000001000PLTV/88888888/224/3221229665/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221229968/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230440/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230563/1.m3u8
 CCTV2,http://111.48.246.74/000000001000PLTV/88888888/224/3221229893/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230359/1.m3u8
@@ -799,7 +833,7 @@ CCTV女性时尚,http://111.48.246.74/000000001000PLTV/88888888/224/3221230545/1
 安徽卫视,http://111.48.246.74/000000001000PLTV/88888888/224/3221229778/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230505/1.m3u8
 江苏卫视,http://111.48.246.74/000000001000PLTV/88888888/224/3221229743/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230497/1.m3u8
 辽宁卫视,http://111.48.246.74/000000001000PLTV/88888888/224/3221229825/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230464/1.m3u8
-湖北卫视,http://111.48.246.74/000000001000PLTV/88888888/224/3221229812/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230457/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230509/1.m3u8
+湖北卫视,http://111.48.246.74/000000001000PLTV/88888888/224/3221229812/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230509/1.m3u8
 河南卫视,http://111.48.246.74/000000001000PLTV/88888888/224/3221229870/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230511/1.m3u8
 东南卫视,http://111.48.246.74/000000001000PLTV/88888888/224/3221229810/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230507/1.m3u8
 甘肃卫视,http://111.48.246.74/000000001000PLTV/88888888/224/3221230502/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230521/1.m3u8
@@ -837,14 +871,15 @@ CHC影迷电影,http://111.48.246.74/000000001000PLTV/88888888/224/3221230483/1.
 CETV1,http://111.48.246.74/000000001000PLTV/88888888/224/3221229790/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230523/1.m3u8
 CETV2,http://111.48.246.74/000000001000PLTV/88888888/224/3221230171/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230389/1.m3u8
 CETV4,http://111.48.246.74/000000001000PLTV/88888888/224/3221229939/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230466/1.m3u8
-山东教育卫视,http://111.48.246.74/000000001000PLTV/88888888/224/3221230459/1.m3u8
-武汉教育,http://111.48.246.74/000000001000PLTV/88888888/224/3221229783/1.m3u8
-湖北教育,http://111.48.246.74/000000001000PLTV/88888888/224/3221230406/1.m3u8
-武汉新闻,http://111.48.246.74/000000001000PLTV/88888888/224/3221229763/1.m3u8
-湖北新闻,http://111.48.246.74/000000001000PLTV/88888888/224/3221229800/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230441/1.m3u8
+湖北公共,http://111.48.246.74/000000001000PLTV/88888888/224/3221229800/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230441/1.m3u8
 湖北经视,http://111.48.246.74/000000001000PLTV/88888888/224/3221229804/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230388/1.m3u8
 湖北综合,http://111.48.246.74/000000001000PLTV/88888888/224/3221229806/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230439/1.m3u8
 湖北垄上,http://111.48.246.74/000000001000PLTV/88888888/224/3221229833/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230390/1.m3u8
+湖北生活,http://111.48.34.138/000000001000PLTV/88888888/224/3221230457/1.m3u8#http://111.48.246.74/000000001000PLTV/88888888/224/3221230457/1.m3u8
+湖北影视,http://111.48.246.74/000000001000PLTV/88888888/224/3221230404/1.m3u8
+湖北教育,http://111.48.34.138/000000001000PLTV/88888888/224/3221230406/1.m3u8
+山东教育卫视,http://111.48.246.74/000000001000PLTV/88888888/224/3221230459/1.m3u8
+武汉教育,http://111.48.246.74/000000001000PLTV/88888888/224/3221229783/1.m3u8
 襄阳综合,http://111.48.246.74/000000001000PLTV/88888888/224/3221229846/1.m3u8
 襄阳经济生活,http://111.48.246.74/000000001000PLTV/88888888/224/3221229848/1.m3u8
 襄阳公共,http://111.48.246.74/000000001000PLTV/88888888/224/3221229850/1.m3u8
@@ -893,5 +928,3 @@ CETV4,http://111.48.246.74/000000001000PLTV/88888888/224/3221229939/1.m3u8#http:
 梨园频道,http://111.48.246.74/000000001000PLTV/88888888/224/3221230496/1.m3u8
 文物宝库,http://111.48.246.74/000000001000PLTV/88888888/224/3221230547/1.m3u8
 武术世界,http://111.48.246.74/000000001000PLTV/88888888/224/3221230549/1.m3u8
-
-
